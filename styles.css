@@ -1,0 +1,43 @@
+.container-fluid {
+    background-color: black;
+    
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    color: black;
+}
+.container-fluid .container footer {
+    background-color: whitesmoke;
+    font-size: large;
+}
+
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    color: #E0EEF1;
+    font-style: normal;
+    font-size: x-large;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: black;
+	
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: black;
+}
+.container-fluid .container .text-center.text-capitalize {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: goldenrod;
+
+}
+.container-fluid .container footer {
+}
+
+.col-lg-8 {
+	color: darkgoldenrod;
+}
+
+.mb-0 {
+	color: goldenrod;
+}
+
+.card-title {
+	color: darkgoldenrod;
+}
